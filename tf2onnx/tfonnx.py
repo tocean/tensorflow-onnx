@@ -4,6 +4,7 @@
 """
 tf2onnx.tf2onnx - rewrite tensorflow graph to onnx graph
 """
+# add by yuxyang for test
 import collections
 import logging
 
